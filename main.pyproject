@@ -1,0 +1,3 @@
+{
+    "files": ["main.qml","qml/pages/paginaInicio.qml","main.py","qml/pages/eliminarUsuario.qml","qml/pages/eliminarLibro.qml","qml/pages/editarUsuario.qml","qml/controls/LeftMenuBtn.qml","qml/controls/ToggleBtn.qml","qml/pages/agregarLibro.qml","qml/pages/cambiarPass.qml","qml/pages/agregarUsuario.qml","qml/pages/customButton.qml","qml/pages/customTextField.qml","qml/controls/TopBarButton.qml","qml/pages/deudas.qml","qml/pages/configuracion.qml","qml/pages/buscarLibro.qml","qml/pages/editarLibro.qml","qml/controls/CustomButtonAgregar.qml"]
+}
